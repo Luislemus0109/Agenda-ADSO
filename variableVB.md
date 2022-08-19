@@ -1,6 +1,6 @@
 # Creacion de Aplicacion con Visual Basic
 
-´´´
+´´´´
     sub sena
         nom = "Luis"
         msgbox nom
@@ -9,4 +9,4 @@
         nom = "Maria"
         msgbox "El nombre es " & nom
     end sub
-´´´
+´´´´
