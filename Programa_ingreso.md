@@ -16,27 +16,27 @@ Hacer un programa en Visual Basic, que permita calcular el valor a pagar por imp
         If ing_anual >= 1001 And ing_anual < 10000 Then
             impuesto = 0.05
             aum_imp = ing_anual * impuesto
-            MsgBox "Impuesto a pagar: " & ing_anual + aum_imp
+            MsgBox "Impuesto a pagar: " & aum_imp
         Else
             If ing_anual >= 10001 And ing_anual < 100000 Then
                 impuesto = 0.1
                 aum_imp = ing_anual * impuesto
-                MsgBox "Impuesto a pagar: " & ing_anual + aum_imp
+                MsgBox "Impuesto a pagar: " & aum_imp
             Else
                 If ing_anual >= 100001 And ing_anual < 1000000 Then
                     impuesto = 0.15
                     aum_imp = ing_anual * impuesto
-                    MsgBox "Impuesto a pagar: " & ing_anual + aum_imp
+                    MsgBox "Impuesto a pagar: " & aum_imp
                 Else
                     If ing_anual >= 1000001 And ing_anual < 10000000 Then
                         impuesto = 0.2
                         aum_imp = ing_anual * impuesto
-                        MsgBox "Impuesto a pagar: " & ing_anual + aum_imp
+                        MsgBox "Impuesto a pagar: " & aum_imp
                     Else
                         If ing_anual > 10000001 Then
                             impuesto = 0.25
                             aum_imp = ing_anual * impuesto
-                            MsgBox "Impuesto a pagar: " & ing_anual + aum_imp
+                            MsgBox "Impuesto a pagar: " & aum_imp
                         End If
                     
                     End If
