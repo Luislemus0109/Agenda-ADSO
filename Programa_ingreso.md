@@ -3,6 +3,7 @@
 Hacer un programa en Visual Basic, que permita calcular el valor a pagar por impuesto anual de una empresa.
 
 ´´´´
+    
     Sub impuesto_empresa()
 
     ing_anual = InputBox("Ingrese su ingreso anual: ")
