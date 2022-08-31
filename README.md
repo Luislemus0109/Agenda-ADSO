@@ -2,10 +2,16 @@
 Este Repositorio Lo usare como agenda para mi formacion SENA
 
 ## Creacion de Hoja de vida (9-10 de agosto)
-[Ir a Mi Hoja de vida](hojadevida.md)
+[Ir a Mi Hoja de vida](ejercicios/hojadevida.md)
 
 ## Creacion de App con Visual Basic (12 de agosto)
-[Ir a App creada con visual Basic](variableVB.md)
+[Ir a App creada con visual Basic](ejercicios/variableVB.md)
 
 ## Programa de ingreso (26 de agosto)
-[Ir a programa de calculo de impuesto](Programa_ingreso.md)
+[Ir a programa de calculo de impuesto](ejercicios/Programa_ingreso.md)
+
+## Programa de Registro de Carro (29 de agosto)
+[Ir a programa de Registro de Carro](ejercicios/registrocarro.md)
+
+## Programa de Registro de Datos (29 de agosto)
+[Ir a programa de Registro de Datos](ejercicios/registrodatos.md)
