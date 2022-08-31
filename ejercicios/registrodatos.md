@@ -18,5 +18,3 @@ Hacer un programa en Visual Basic, que permita registra los datos ingresados por
 
 
 ´´´´
-
-[Abrir archivo de excel](ejercicios/REGISTRODATOS.xlsm)
