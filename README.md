@@ -15,3 +15,6 @@ Este Repositorio Lo usare como agenda para mi formacion SENA
 
 ## Programa de Registro de Datos (29 de agosto)
 [Ir a programa de Registro de Datos](ejercicios/registrodatos.md)
+
+## Programa de Recaudo para evento estudiantil (31 de agosto)
+[Ir a programa de recaudo estudiantil](ejercicios/recaudoestudiante.md)
