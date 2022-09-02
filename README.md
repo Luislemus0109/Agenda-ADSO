@@ -18,3 +18,6 @@ Este Repositorio Lo usare como agenda para mi formacion SENA
 
 ## Programa de Recaudo para evento estudiantil (31 de agosto)
 [Ir a programa de recaudo estudiantil](ejercicios/recaudoestudiante.md)
+
+## Programa de Ultimos caracter para nombres (02 de septiembre)
+[Ir a programa para ultimos caracteres](ejercicios/ultimadorletras.md)
