@@ -23,4 +23,4 @@ Este Repositorio Lo usare como agenda para mi formacion SENA
 [Ir a programa para ultimos caracteres](ejercicios/ultimadorletras.md)
 
 ## Programa de Generar codigos con mid, len (02 de septiembre)
-[Ir a programa para ultimos caracteres](ejercicios/generadorcodigo.md)
+[Ir a programa para generador de codigos](ejercicios/generadorcodigo.md)
