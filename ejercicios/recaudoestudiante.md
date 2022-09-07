@@ -11,7 +11,7 @@ Se requiere que el programa entregue la siguiente información:
 5.	Cantidad de estudiantes que aportaron valores superiores a $10.000.
 
 
-´´´´
+~~~
 
 Sub eventoescolar()
     
@@ -42,4 +42,4 @@ Sub eventoescolar()
         
 End Sub
 
-´´´´
+~~~
