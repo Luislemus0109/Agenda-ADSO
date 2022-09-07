@@ -2,7 +2,7 @@
 
 Hacer un programa en Visual Basic, que permita calcular el valor a pagar por impuesto anual de una empresa.
 
-´´´´
+~~~
     
     Sub impuesto_empresa()
 
@@ -45,4 +45,4 @@ Hacer un programa en Visual Basic, que permita calcular el valor a pagar por imp
     End If
 
     End Sub
-´´´´
+~~~
