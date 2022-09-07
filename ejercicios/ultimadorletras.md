@@ -2,7 +2,7 @@
 
 Hacer un programa en Visual Basic, que permita separar las dos ultimas letras del nombre
 
-´´´´
+~~~
 
     Sub ultimador()
 
@@ -16,4 +16,4 @@ Hacer un programa en Visual Basic, que permita separar las dos ultimas letras de
     End Sub
 
 
-´´´´
+~~~
