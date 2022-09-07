@@ -3,7 +3,7 @@
 Hacer un programa en Visual Basic, que permita registra los datos ingresados por el cliente y mostrarlos en un listado.
 Nota: Usar contador para organizar los datos y for para un bucle
 
-´´´´
+~~~
 
     Sub registrar()
 
@@ -18,4 +18,4 @@ Nota: Usar contador para organizar los datos y for para un bucle
     End Sub
 
 
-´´´´
+~~~
