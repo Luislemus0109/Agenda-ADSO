@@ -2,7 +2,7 @@
 
 Hacer un programa en Visual Basic, que permita registra los datos ingresados por el cliente y mostrarlos en otra hoja.
 
-´´´´
+~~~
 
     Sub save()
         fila = datos.Cells(1, 8)
@@ -24,4 +24,4 @@ Hacer un programa en Visual Basic, que permita registra los datos ingresados por
 
 
 
-´´´´
+~~~
