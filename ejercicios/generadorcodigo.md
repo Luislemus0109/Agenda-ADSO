@@ -1,6 +1,6 @@
 ## Taller 2 de septiembre
 
-´´´´
+~~~
 
     Sub ultimador()
 
@@ -22,4 +22,4 @@
         
     End Sub
 
-´´´´
+~~~
