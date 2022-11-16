@@ -26,4 +26,4 @@ Este Repositorio Lo usare como agenda para mi formacion SENA
 - [Ir a programa para generador de codigos](ejercicios/generadorcodigo.md)
 
 # Flutter
-- [Ir a Flutter](ejerccios/dart.md)
+- [Ir a Flutter](ejercicios/dart.md)
